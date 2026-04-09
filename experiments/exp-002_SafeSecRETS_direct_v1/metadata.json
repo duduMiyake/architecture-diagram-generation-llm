@@ -1,0 +1,7 @@
+{
+  "article": "safesecrets",
+  "methodology": "direct",
+  "prompt": "v1",
+  "llm": "nano banana 2",
+  "run": 1
+}

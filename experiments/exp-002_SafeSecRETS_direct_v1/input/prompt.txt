@@ -1,0 +1,18 @@
+Atue como um especialista em arquitetura de software, com ampla experiência na análise de artigos acadêmicos e na modelagem de sistemas complexos. Você receberá como entrada um artigo acadêmico completo. Sua tarefa é analisar profundamente o conteúdo e gerar um diagrama de arquitetura do sistema descrito.
+
+Siga as instruções abaixo:
+Leia todo o artigo com atenção e identifique os principais elementos arquiteturais, incluindo componentes, módulos, serviços, fluxos de dados e interações entre as partes do sistema.
+Com base nessa análise, construa um diagrama de arquitetura que represente fielmente o sistema proposto no artigo.
+
+O diagrama deve:
+    - Evidenciar claramente os principais componentes
+    - Mostrar as relações e comunicações entre eles (utilizando setas direcionais)
+    - Utilizar nomenclatura consistente com a apresentada no artigo
+    - Estar organizado de forma clara, hierárquica e legível
+    - Caso existam lacunas ou ambiguidades no artigo, faça inferências plausíveis com base em boas práticas de arquitetura de software.
+    - Gere como saída exclusivamente uma imagem do diagrama de arquitetura, com aparência profissional, semelhante a diagramas utilizados em documentação técnica (com caixas, setas e agrupamentos bem definidos).
+
+Importante:
+    - Não gere explicações, descrições ou qualquer outro tipo de texto.
+    - Não gere código (como Mermaid, PlantUML ou similares).
+    - A saída deve conter apenas a imagem do diagrama.
