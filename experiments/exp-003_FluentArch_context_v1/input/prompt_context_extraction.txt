@@ -1,0 +1,13 @@
+Você receberá o conteúdo de um artigo científico. Sua tarefa é extrair e reconstruir, de forma clara e completa, o contexto arquitetural do sistema descrito no artigo.
+
+O foco não é resumir o artigo, mas sim identificar e descrever como o sistema é estruturado do ponto de vista arquitetural.
+
+Analise cuidadosamente o texto e produza uma descrição contínua, em texto puro, que permita a outra inteligência artificial compreender e gerar um diagrama de arquitetura a partir dela.
+
+A descrição deve incluir, quando disponíveis no artigo, os seguintes aspectos integrados de forma natural ao texto: os principais componentes do sistema, suas responsabilidades, como esses componentes se comunicam entre si, o fluxo de dados ou eventos dentro do sistema, as camadas arquiteturais (se existirem), tecnologias mencionadas quando forem relevantes para a arquitetura, padrões arquiteturais utilizados (como microsserviços, arquitetura em camadas, orientada a eventos, etc.), e quaisquer elementos externos que interajam com o sistema.
+
+Evite qualquer tipo de lista, tópicos, numeração ou formatação especial. Não utilize emojis. Não inclua comentários sobre o processo de análise. Não explique o que você está fazendo. Não resuma o artigo de forma genérica. Não inclua informações que não estejam diretamente relacionadas à arquitetura do sistema.
+
+Caso o artigo não forneça detalhes explícitos suficientes, infira a estrutura arquitetural de forma cautelosa com base no contexto disponível, deixando implícito no próprio texto quando algo for deduzido.
+
+A saída deve ser um único bloco de texto coeso, técnico, objetivo e descritivo, adequado para servir como entrada para geração automática de diagramas arquiteturais.

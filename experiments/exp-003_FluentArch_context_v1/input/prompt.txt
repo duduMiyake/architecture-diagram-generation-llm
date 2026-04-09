@@ -1,0 +1,33 @@
+Tarefa: Gerar um diagrama de arquitetura de software a partir de uma descrição textual.
+
+Contexto:
+A seguir é apresentada uma descrição detalhada da arquitetura de um sistema.
+
+Objetivo:
+Gerar um diagrama visual que represente fielmente a arquitetura descrita, incluindo:
+- Todas as camadas do sistema
+- Componentes internos de cada camada
+- Tecnologias utilizadas
+- Fluxos de comunicação entre os componentes
+- Integrações externas
+
+Instruções:
+1. Organize o diagrama em camadas bem definidas (de cima para baixo ou esquerda para direita).
+2. Identifique claramente cada camada com seu nome:
+3. Dentro de cada camada, inclua seus respectivos componentes conforme descrito no texto.
+4. Represente os fluxos de comunicação com setas, diferenciando:
+   - Requisições síncronas (ex: API REST)
+   - Comunicação assíncrona/eventos (ex: WebSockets / Realtime)
+5. Destaque tecnologias específicas (ex: Bubble, Supabase, PostgreSQL, WebSockets, Fireworks AI, LLM).
+6. Mostre claramente:
+   - Fluxo principal do usuário
+   - Atualizações em tempo real
+   - Integrações
+7. O diagrama deve ser limpo, organizado e adequado.
+8. Utilize um estilo visual de diagrama de arquitetura moderno (similar a diagramas de sistemas distribuídos).
+
+Formato de saída:
+- Gere uma imagem do diagrama de arquitetura (não gere descrição textual)
+
+Descrição da arquitetura:
+[TEXTO DA ARQUITETURA]

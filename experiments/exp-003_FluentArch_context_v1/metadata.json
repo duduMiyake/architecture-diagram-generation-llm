@@ -1,0 +1,7 @@
+{
+  "article": "fluentarch",
+  "methodology": "context_based",
+  "prompt": "v1",
+  "llm": "gpt-5.4 && nano banana 2",
+  "run": 1
+}
